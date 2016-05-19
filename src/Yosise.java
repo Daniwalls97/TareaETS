@@ -6,6 +6,8 @@ public class Yosise {
 		System.out.println("Que tal te va ahora con eso?");
 		
 		System.out.println("Aqui el PRO soy yo ! ");
+		
+		System.out.println("Pasopalabra...!");
 	}
 
 }
