@@ -13,9 +13,13 @@ public class Yosise {
 		
 		System.out.println("Y este es el último commit");
 		
+<<<<<<< HEAD
 		System.out.println("Primer commit de mi branch");
 		
 		System.out.println("Acaba esta frase... Todo esto es una ....!");
+=======
+		System.out.println("Heyyy");
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
